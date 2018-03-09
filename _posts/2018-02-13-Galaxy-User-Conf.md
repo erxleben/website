@@ -121,7 +121,7 @@ and analysis accessible, reproducible, and transparent.</td>
     </tr>
     <tr>
       <td valign="top">09:30-10:00</td>
-      <td valign="top">Gene discovery with KnetMiner</td>
+      <td valign="top">Facilitating evidence-based gene discovery with the KnetMiner application suite</td>
       <td valign="top">Ajit Pratap Singh (Hertfordshire, UK)</td>
     </tr>
     <tr>
